@@ -369,6 +369,31 @@
 
 ---
 
+<h2 align="center">⚽ A Little More About Me</h2>
+
+> I’m a little bit of a crackhead in the best sense: relentlessly curious, occasionally delightfully cringe, and always drawn to exploring the unconventional edges of life. I’d rather learn something firsthand than pretend I already have it figured out. 🧭
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 Competition is personal</h3>
+      <p>I love football—and when I compete, I compete with everything I have. I have vomited twice from exhaustion in the same game and once played through a broken foot to secure the win for my team. If I decide something has to happen, I bring that same clarity and intensity: no hesitation, no easy way out.</p>
+      <p>I’m proud of my agility and acceleration, but even more of the resilience behind them. The goal is not just to win; it is to earn the win with the people beside me. ⚡</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤍 Curiosity with care</h3>
+      <p>Off the field, I’m the opposite kind of intense: I love listening to people, understanding what moves them, and making room for their stories. I’m deeply curious about people and the world around me.</p>
+      <p>I have a soft spot for kids—enough that I sometimes imagine becoming a teacher for grades 1–5. I’m genuinely happy to share this little planet with all of you for a short while, and I hope we make something meaningful of the time. 🌍</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  🔎 <strong>Hypervigilant by nature and a perfectionist by habit</strong>, I notice small details quickly and pay close attention to shifts in motivation. <em>The Mentalist</em> is my favorite show—if you’ve watched it, you may recognize a little of how my mind works. My strength is turning loose pieces into something thoughtful and complete; my challenge is remembering that not every small thing needs to become a whole system. 🧩
+</p>
+
+---
+
 <h2 align="center">🎓 Foundation & Operating Style</h2>
 
 <table>
