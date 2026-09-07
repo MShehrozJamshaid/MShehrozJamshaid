@@ -1,0 +1,27 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">M. Shehroz Jamshaid's Obsidian-powered second brain</title>
+  <desc id="desc">A pitch-black knowledge map connecting capture, notes, projects, planning, review, and execution.</desc>
+  <defs>
+    <linearGradient id="accent" x1="100" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#A855F7"/><stop offset="1" stop-color="#FF3B30"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="#000"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#27272A" stroke-width="2"/>
+  <circle cx="1090" cy="50" r="170" fill="#A855F7" fill-opacity=".09"/>
+  <circle cx="88" cy="350" r="140" fill="#FF3B30" fill-opacity=".06"/>
+  <text x="62" y="82" fill="#F4F4F5" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">SECOND BRAIN</text>
+  <text x="62" y="114" fill="#A1A1AA" font-family="Consolas, monospace" font-size="15">OBSIDIAN NOTES · PLANNING · ORGANIZATION · EXECUTION</text>
+  <path d="M62 138H422" stroke="url(#accent)" stroke-width="3"/>
+  <text x="62" y="188" fill="#D4D4D8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">I capture signal, connect context,</text>
+  <text x="62" y="216" fill="#D4D4D8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">and turn scattered ideas into action.</text>
+  <text x="62" y="274" fill="#71717A" font-family="Consolas, monospace" font-size="14">PARA × ZETTELKASTEN × WEEKLY REVIEWS</text>
+  <text x="62" y="304" fill="#F4F4F5" font-family="Consolas, monospace" font-size="14" font-weight="700">A SYSTEM FOR THINKING CLEARLY AT SCALE.</text>
+  <g stroke="#52525B" stroke-width="2">
+    <path d="M580 180L705 105"/><path d="M580 180L710 258"/><path d="M705 105L860 86"/><path d="M705 105L870 183"/><path d="M710 258L870 183"/><path d="M870 183L1035 117"/><path d="M870 183L1038 267"/>
+  </g>
+  <g fill="#09090B" stroke="url(#accent)" stroke-width="2">
+    <rect x="526" y="143" width="108" height="74" rx="16"/><rect x="651" y="68" width="108" height="74" rx="16"/><rect x="656" y="221" width="108" height="74" rx="16"/><rect x="816" y="146" width="108" height="74" rx="16"/><rect x="981" y="80" width="108" height="74" rx="16"/><rect x="984" y="230" width="108" height="74" rx="16"/>
+  </g>
+  <g font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#F4F4F5" text-anchor="middle"><text x="580" y="174">CAPTURE</text><text x="580" y="195">INBOX</text><text x="705" y="99">ATOMIC</text><text x="705" y="120">NOTES</text><text x="710" y="252">PROJECT</text><text x="710" y="273">PLANS</text><text x="870" y="177">KNOWLEDGE</text><text x="870" y="198">GRAPH</text><text x="1035" y="111">WEEKLY</text><text x="1035" y="132">REVIEW</text><text x="1038" y="261">NEXT</text><text x="1038" y="282">ACTIONS</text></g>
+  <g fill="#A855F7" filter="url(#glow)"><circle cx="580" cy="180" r="5"/><circle cx="705" cy="105" r="5"/><circle cx="710" cy="258" r="5"/><circle cx="870" cy="183" r="5"/><circle cx="1035" cy="117" r="5"/><circle cx="1038" cy="267" r="5"/></g>
+</svg>
