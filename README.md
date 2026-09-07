@@ -274,10 +274,6 @@
   </picture>
 </p>
 
-<div align="center"><sub>The snake updates automatically through GitHub Actions after the profile repository is pushed.</sub></div>
-
----
-
 <h2 align="center">🛰️ GitHub Telemetry</h2>
 
 <p align="center">
