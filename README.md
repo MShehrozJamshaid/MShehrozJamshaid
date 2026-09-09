@@ -298,6 +298,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://shehrozjamshaid.me" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/portfolio-Website.png" width="98%" alt="Portfolio website preview" />
+  </a>
+</p>
+
 
 <h2 align="center">🏗️ Experience Timeline</h2>
 
